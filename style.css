@@ -1,7 +1,7 @@
 h1{
-    color: rgba(224, 188, 67, 0.966);
+    color:#E5BB61(224, 188, 67, 0.966);
 }
-background{
+::backdrop{
     color: rgb(255, 220, 208);
 
 }
