@@ -14,12 +14,24 @@ body{
 }
 
 #pixiecut{
-
+width: 100%;
     height: 50px;
 }
 
-$#buzzcut {
+#buzzcut {
     width: 100%;
 
     height: 50px;
+}
+#sidecut {
+     width: 100%;
+    height: 100px;
+}
+#undercut{
+width: 100%;;
+    height: 160px;
+}
+#bob{
+width: 100%;
+    height: 160px;
 }
