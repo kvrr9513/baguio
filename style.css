@@ -15,23 +15,22 @@ body{
 
 #pixiecut{
 width: 100%;
-    height: 100px;
+    height: 60px;
 }
 
 #buzzcut {
     width: 100%;
 
-    height: 100px;
+    height: 60px;
 }
 #sidecut {
      width: 100%;
-    height: 100px;
+    height: 60px;
 }
 #undercut{
 width: 100%;;
-    height: 160px;
+    height: 60px;
 }
 #bob{
 width: 100%;
-    height: 160px;
-}
+    height: 60px
