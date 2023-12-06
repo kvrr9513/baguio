@@ -20,18 +20,22 @@ margin-left: 150px;
 }
 
 #buzzcut {
-width: 100%;
- height: 300px;
+    margin-left: 150px;
+    width: 100%;
+    margin-right: 150px;
 }
 #sidecut { 
- width: 100%;
- height: 300px;
+    margin-left: 150px;
+    width: 100%;
+    margin-right: 150px;
 }
 #undercut{
-width: 100%;;
- height: 300px;
+    margin-left: 150px;
+    width: 100%;
+    margin-right: 150px;
 }
 #bob{
-width: 100%;
- height: 300px
+    margin-left: 150px;
+    width: 100%;
+    margin-right: 150px;
 }
