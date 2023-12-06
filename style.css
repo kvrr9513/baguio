@@ -14,28 +14,27 @@ body{
 }
 
 #pixiecut{
-margin-left: 150px;
+margin-left: 310;
     width: 100%;
-    margin-right: 150px;
+    height: 300px;
 }
 
 #buzzcut {
-    margin-left: 150px;
-    width: 100%;
-    margin-right: 150px;
+width: 100%;
+margin-left: 310px;
+margin-right: 350px;
+ height: 555px;
 }
 #sidecut { 
-    margin-left: 150px;
-    width: 100%;
-    margin-right: 150px;
+    margin-left: 190px;
+ width: 100%;
+ height: 300px;
 }
 #undercut{
-    margin-left: 150px;
-    width: 100%;
-    margin-right: 150px;
+width: 100%;;
+ height: 300px;
 }
 #bob{
-    margin-left: 150px;
-    width: 100%;
-    margin-right: 150px;
+width: 100%;
+ height: 300px
 }
